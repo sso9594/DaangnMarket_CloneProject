@@ -1,5 +1,6 @@
 # camp2022_btree
 스마일게이트 개발 캠프 2022 - 윈터 개발 캠프 2기 - B-TREE
+Notion: https://devcamp.notion.site/B-TREE-3997047c22c54d7e99ffb90158bba903?pvs=4
 
 ## 🌒 Project Outline
 #### 협업과 실력 성장에 초점을 맞춘 주제
