@@ -53,14 +53,6 @@ Notion: https://devcamp.notion.site/B-TREE-3997047c22c54d7e99ffb90158bba903?pvs=
 #### - Post Server
 ![image](https://user-images.githubusercontent.com/58455389/224046105-840a6b7c-28f1-42cd-b954-5be896fa67f0.png) ![image](https://user-images.githubusercontent.com/58455389/224046186-c26897dd-8936-4469-bb96-831fddd51d77.png)
 
-## 📱UI
-### 로그인 및 회원가입
-![image](https://user-images.githubusercontent.com/58455389/224046877-f9a664f5-fc45-49f5-84b3-d2df438a48ca.png) ![image](https://user-images.githubusercontent.com/58455389/224047095-5fc5dd43-bfcd-43e9-b9f0-5dcc602bb032.png)
-### 홈 화면 (판매글) 및 동네생활
-![image](https://user-images.githubusercontent.com/58455389/224047375-2b15f950-d7d8-4a88-9488-5ac38877364d.png) ![image](https://user-images.githubusercontent.com/58455389/224047479-018b920e-0681-4271-a4cb-3eaacf27ef21.png)
-### 글쓰기 및 상세페이지
-![image](https://user-images.githubusercontent.com/58455389/224047764-dd56bd9e-d062-4040-b553-4b11f9f8a494.png) ![image](https://user-images.githubusercontent.com/58455389/224047997-a06c9ce7-f7ef-426a-b2e8-9df0a36fd895.png)
-
 ## 🔑나의 주요 기능 및 맡은 역할
 - Post Server
   - 홈(판매글) 및 동네생활 CRUD 기능
@@ -71,4 +63,13 @@ Notion: https://devcamp.notion.site/B-TREE-3997047c22c54d7e99ffb90158bba903?pvs=
 - Gps Server
   - Clent에서 좌표를 받으면 입력받은 주소와 실제 좌표 비교 (Gps Auth)
   - KakaoMap API를 통해 해당지역 주변의 게시글 
+
+## 📱UI
+### 로그인 및 회원가입
+![image](https://user-images.githubusercontent.com/58455389/224046877-f9a664f5-fc45-49f5-84b3-d2df438a48ca.png) ![image](https://user-images.githubusercontent.com/58455389/224047095-5fc5dd43-bfcd-43e9-b9f0-5dcc602bb032.png)
+### 홈 화면 (판매글) 및 동네생활
+![image](https://user-images.githubusercontent.com/58455389/224047375-2b15f950-d7d8-4a88-9488-5ac38877364d.png) ![image](https://user-images.githubusercontent.com/58455389/224047479-018b920e-0681-4271-a4cb-3eaacf27ef21.png)
+### 글쓰기 및 상세페이지
+![image](https://user-images.githubusercontent.com/58455389/224047764-dd56bd9e-d062-4040-b553-4b11f9f8a494.png) ![image](https://user-images.githubusercontent.com/58455389/224047997-a06c9ce7-f7ef-426a-b2e8-9df0a36fd895.png)
+
 
