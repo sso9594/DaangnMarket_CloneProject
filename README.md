@@ -47,12 +47,6 @@ Notion: https://devcamp.notion.site/B-TREE-3997047c22c54d7e99ffb90158bba903?pvs=
 ## ⚙Architecture
 ![image](https://user-images.githubusercontent.com/58455389/224045656-b4fef72d-5c71-40a3-9186-5734cb6a9b6c.png)
 
-## 🎞ERD
-#### - Auth Server
-![image](https://user-images.githubusercontent.com/58455389/224045969-7bc693c9-4fc8-4254-9ad5-441f9e2b5289.png)
-#### - Post Server
-![image](https://user-images.githubusercontent.com/58455389/224046105-840a6b7c-28f1-42cd-b954-5be896fa67f0.png) ![image](https://user-images.githubusercontent.com/58455389/224046186-c26897dd-8936-4469-bb96-831fddd51d77.png)
-
 ## 🔑나의 주요 기능 및 맡은 역할
 - Post Server
   - 홈(판매글) 및 동네생활 CRUD 기능
